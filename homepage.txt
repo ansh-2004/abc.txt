@@ -1,3 +1,4 @@
 
-Hlo, I have learnt python language
-and now i am learning c language
+hlo i have learnt python language
+now i am learning c language
+in next few months i will be learning c++ language
