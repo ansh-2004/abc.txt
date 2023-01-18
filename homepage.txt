@@ -1,2 +1,3 @@
 
 Hlo, I have learnt python language
+and now i am learning c language
